@@ -1,0 +1,12 @@
+{
+  "name": "flappy-bird-nodejs",
+  "version": "1.0.0",
+  "description": "Flappy Bird game using HTML, CSS, and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
